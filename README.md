@@ -1,1 +1,0 @@
-# Codealpha-Handwritten-Character-Recognition
